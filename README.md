@@ -1,4 +1,6 @@
-#XML FEED NORMALIZER
+# XML FEED NORMALIZER FOR WORDPRESS
+
+Auto convert xml feeds to a usable format compatible with wp all import
 
 ## Installation
 
