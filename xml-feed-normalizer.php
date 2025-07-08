@@ -1,9 +1,14 @@
 <?php
 /**
- * Plugin Name: XML Feed Normalizer Pro
- * Description: Normaliseert meerdere XML-feeds (item0, item1, ...) naar standaard <item>-feeds, met cron-ondersteuning.
- * Version: 1.2
- * Author: ChatGPT
+ * Plugin Name: XML Feed Normalizer
+ * Description: Reformat XML Feeds from <item1>..</item1> <item2>..</item2> to <item>..</item> <item>..</item>
+ * Version: 1.3.6
+ * Plugin URI: https://github.com/WeAreCode045/xml-feed-normalizer
+ * Author: WeAreCode045
+ * Author URI: https://github.com/WeAreCode045
+ * License: GPLv2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: xml-feed-normalizer
  */
 
 register_activation_hook(__FILE__, 'xfn_schedule_cron');
