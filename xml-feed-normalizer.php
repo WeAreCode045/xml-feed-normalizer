@@ -1,8 +1,8 @@
 <?php
 /**
  * Plugin Name: XML Feed Normalizer
- * Description: Reformat XML Feeds from <item1>..</item1> <item2>..</item2> to <item>..</item> <item>..</item>
- * Version: 1.3.8
+ * Description: Reformat XML Feeds from "<item1>..</item1> <item2>..</item2> to <item>..</item> <item>..</item>"
+ * Version: 1.3.9
  * Plugin URI: https://github.com/WeAreCode045/xml-feed-normalizer
  * Author: WeAreCode045
  * Author URI: https://github.com/WeAreCode045
