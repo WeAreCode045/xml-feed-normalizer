@@ -2,7 +2,7 @@
 /**
  * Plugin Name: XML Feed Normalizer
  * Description: Reformat XML Feeds from <item1>..</item1> <item2>..</item2> to <item>..</item> <item>..</item>
- * Version: 1.3.7
+ * Version: 1.3.8
  * Plugin URI: https://github.com/WeAreCode045/xml-feed-normalizer
  * Author: WeAreCode045
  * Author URI: https://github.com/WeAreCode045
